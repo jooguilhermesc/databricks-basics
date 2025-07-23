@@ -1,4 +1,4 @@
-📚 Databricks do Zero — Base de Conhecimento para Iniciantes
+# 📚 Databricks do Zero — Base de Conhecimento para Iniciantes
 Bem-vindo ao repositório Databricks do Zero!
 Este espaço foi criado com o objetivo de facilitar o aprendizado e acelerar a jornada de quem está começando no ecossistema Databricks, combinando teoria e prática em exemplos simples, claros e organizados.
 
