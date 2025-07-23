@@ -7,27 +7,27 @@ Aqui você encontrará conteúdos fundamentais para dominar os principais concei
 📁 Estrutura de Pastas e Conteúdos
 Cada pasta contém notebooks, explicações e exemplos práticos com foco em iniciantes. Veja abaixo os temas disponíveis:
 
-1. 01_sql-com-spark-sql
+1. 01_sql-com-spark-sql [Já disponível ✅]
 📘 Aprendendo SQL com Spark SQL
 Explore como escrever queries SQL no ambiente distribuído do Spark. Aprenda comandos básicos e avançados, criação de tabelas temporárias, filtros, joins, agregações, CTE, WINDOW FUNCTIONS e muito mais.
 
-2. 02_python-com-pyspark
+2. 02_python-com-pyspark [... em construção 🛠️]
 🐍 Aprendendo Python com PySpark
 Introdução à API Python do Spark. Ideal para quem já conhece um pouco de Python e quer começar a manipular dados com DataFrames, RDDs, funções de transformação (withColumn, filter, groupBy), UDFs e muito mais.
 
-3. 03_delta-tables
+3. 03_delta-tables [... em construção 🛠️]
 💾 Propriedades da Delta Tables
 Entenda o que são Delta Tables e por que são tão poderosas no Databricks. Aqui você aprende sobre ACID transactions, versionamento, tabela otimizada, vacuum, time travel, merge, entre outros.
 
-4. 04_tabelas-e-views
+4. 04_tabelas-e-views [... em construção 🛠️]
 🗂️ Tabelas e Views no Databricks
 Diferença entre tabelas Managed e External, como criar Views (Temporary, Global, Materialized), quando e por que usar cada uma.
 
-5. 05_arquitetura-medalhao
+5. 05_arquitetura-medalhao [... em construção 🛠️]
 🏛️ Arquitetura Medalhão
 Aprenda os princípios da arquitetura Bronze-Silver-Gold (medalhão), como organizar camadas de dados, boas práticas de particionamento e governança de dados.
 
-[... em construção 🛠️]
+
 
 📦 Requisitos
 - Conta no ![Databricks Free Edition](https://www.databricks.com/learn/free-edition), ![Databricks Community Edition](https://community.cloud.databricks.com/login.html?) ou Databricks Workspace de sua empresa
